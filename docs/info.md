@@ -8,7 +8,7 @@ You can also include images in this folder and reference them in the markdown. E
 -->
 
 ## How it works
-Un decodificador convierte entradas binarias (4 bits) en señales para un display de 7 segmentos de cátodo común (activado con 1 lógico).
+Un decodificador que convierte entradas binarias (4 bits) en señales para un display de 7 segmentos de cátodo común (activado con 1 lógico).
 
 ## How to test
 
