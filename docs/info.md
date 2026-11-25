@@ -12,7 +12,7 @@ Un decodificador que convierte entradas binarias (4 bits) en señales para un di
 
 ## How to test
 
-Conecta las 4 entradas (A, B, C, D) a un interruptor DIP o a salidas lógicas (como un microcontrolador o generador).
+Conecta las 4 entradas  (A, B, C, D) a un interruptor DIP o a salidas lógicas (como un microcontrolador o generador).
 Configura las entradas en '0000' (todas en bajo) y verifica que el display muestre el número '0'.
 Ve cambiando las combinaciones binarias de 0000 a 1111 (0 a 15 en decimal) para observar la respuesta. Por ejemplo, al ingresar '0101' (5 en decimal), se deben encender los segmentos a, c, d, f, g para formar el dígito '5'.
 
